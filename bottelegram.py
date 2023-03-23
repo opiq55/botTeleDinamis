@@ -1,8 +1,8 @@
 import telebot
 from telebot import types
 import openai
-openai.api_key = "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"
-api = '6154238804:AAFGo_lBQFn7XEpHf0MtECNubb8tqq3A4o4'
+openai.api_key = "open Ai key"
+api = 'Telegram bot API'
 bot = telebot.TeleBot(api)
 
 def resp(question):
